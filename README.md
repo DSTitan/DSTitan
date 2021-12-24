@@ -2,6 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathstormtitan?color=1DA1F2&logo=twitter&style=for-the-badge)](twitter)
 [![Discord Server](https://img.shields.io/discord/708843719528284262.svg?style=for-the-badge&logo=discord)](discord)  
 
+
 ## Heya!
 - 📜 My name is Nathan also known as *Titan*
 - 💡 Im a programmer and artist, Ive also made music!
