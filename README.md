@@ -22,10 +22,10 @@
 
 
 ### Links
-[<img align="left" style="color:white;" alt="dstitan.codes" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" style="color:white;"  alt="dstitan.codes discord" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/discord.svg"/>][discord]
-[<img align="left" style="color:white;"  alt="dstitan.codes twitter" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg"/>][twitter]
-[<img align="left" style="color:white;" alt="dstitan.codes youtube" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/youtube.svg"/>][youtube]
+[Website][website]
+[Discord][discord]
+[Twitter][twitter]
+[Youtube][youtube]
 
 
 [website]: https://dstitan.codes
