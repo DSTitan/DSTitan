@@ -27,6 +27,8 @@
 [Twitter][twitter]
 [Youtube][youtube]
 
+![DSTitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSTitan&show_icons=true&theme=radical)
+
 
 [website]: https://dstitan.codes
 [titanbot]: https://bot.dstitan.codes
