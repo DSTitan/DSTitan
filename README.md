@@ -6,7 +6,7 @@
 ## Heya!
 - 📜 My name is Nathan also known as *Titan*
 - 💡 Im a programmer and artist, Ive also made music!
-- 🔎 My goal is to try and inprove my skills by creating projects and other cool stuff!
+- 🔎 My goal is to inprove my skills by creating projects and other cool stuff, as well as make my community bigger!
 - ❤ Hope you like what I do!
 
 - ⚒ Im currently working on a [Discord Bot][titanbot] and a Game.
@@ -15,10 +15,11 @@
 ### Languages
 |Name|Status|
 |:-:|:-:|
+|TS|Improving|
 |JS|Improving|
-|C#|Learning|
-|HTLM|Know|
 |CSS|Improving|
+|HTLM|Improving|
+|C#|Learning|
 
 
 ### Links
