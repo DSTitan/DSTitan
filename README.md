@@ -9,18 +9,7 @@
 - 🔎 My goal is to inprove my skills by creating projects and other cool stuff, as well as make my community bigger!
 - ❤ Hope you like what I do!
 
-- ⚒ Im currently working on a [Discord Bot][titanbot] and a Game.
-
-
-### Languages
-|Name|Status|
-|:-:|:-:|
-|TS|Improving|
-|JS|Improving|
-|CSS|Improving|
-|HTLM|Improving|
-|C#|Learning|
-
+- ⚒ Im currently working on a [Discord Bot][titanbot].
 
 ### Links
 [Website][website]
