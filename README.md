@@ -23,7 +23,7 @@
 
 
 [website]: https://dstitan.codes
-[titanbot]: https://bot.dstitan.codes
+[titanbot]: https://titanbot.tk
 [discord]: https://dstitan.codes/return/discord
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeathstormtitan&screen_name=deathstormtitan
 [youtube]: https://dstitan.codes/return/youtube
