@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=titanbot.tk&style=for-the-badge&url=https%3A%2F%2Ftitanbot.tk)][website]
+[![Website](https://img.shields.io/website?label=titanbot.tk&style=for-the-badge&url=https%3A%2F%2Ftitanbot.tk)][titanbot]
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathstormtitan?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Discord Server](https://img.shields.io/discord/708843719528284262.svg?style=for-the-badge&logo=discord)][discord]
 
@@ -22,7 +22,7 @@
 </a>
 
 
-[website]: https://dstitan.codes
+[website]: https://titanstudios.tk
 [titanbot]: https://titanbot.tk
 [discord]: https://dstitan.codes/return/discord
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeathstormtitan&screen_name=deathstormtitan
