@@ -24,6 +24,6 @@
 
 [website]: https://titanstudios.tk
 [titanbot]: https://titanbot.tk
-[discord]: https://dstitan.codes/return/discord
+[discord]: https://discord.com/invite/j5pkCEff8P
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeathstormtitan&screen_name=deathstormtitan
-[youtube]: https://dstitan.codes/return/youtube
+[youtube]: www.youtube.com/@deathstormtitan
