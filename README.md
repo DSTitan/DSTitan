@@ -1,26 +1,34 @@
-[![Website](https://img.shields.io/website?label=titanbot.net&style=for-the-badge&url=https%3A%2F%2Ftitanbot.net)][titanbot]
+# Hi there, I'm Titan! 👋
+
+[![Website](https://img.shields.io/website?label=titanstudios.tk&style=for-the-badge&url=https%3A%2F%2Ftitanstudios.tk)][website]
+[![TitanBot](https://img.shields.io/website?label=titanbot.net&style=for-the-badge&url=https%3A%2F%2Ftitanbot.net)][titanbot]
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathstormtitan?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Discord Server](https://img.shields.io/discord/708843719528284262.svg?style=for-the-badge&logo=discord)][discord]
 
+## About Me
+- 📜 My name is Nathan, also known as Titan.
+- 💻 I'm a programmer and digital artist.
+- 🌟 I have experience working with various programming languages and frameworks, such as JavaScript, TypeScript, React, and Node.js.
+- 🎯 My ultimate goal is to become a highly skilled developer and artist by constantly challenging myself with new projects and ideas.
+- 📚 I believe in continuous learning and self-improvement, and am always seeking new opportunities to grow my skills.
+- 🚀 I enjoy learning and using new technologies to build innovative projects.
+- ❤️ I hope you like what I do!
 
-## Heya!
-- 📜 My name is Nathan also known as *Titan*
-- 💡 Im a programmer and artist, Ive also made music!
-- 🔎 My goal is to inprove my skills by creating projects and other cool stuff, as well as make my community bigger!
-- ❤ Hope you like what I do!
+## Currently Working On
+- ⚒️ I'm currently working on a [Discord Bot][titanbot]
 
-- ⚒ Im currently working on a [Discord Bot][titanbot].
+## Links
+- 🌐 [Website][website]
+- 🎮 [Discord][discord]
+- 🐦 [Twitter][twitter]
+- 📺 [YouTube][youtube]
 
-### Links
-[Website][website]
-[Discord][discord]
-[Twitter][twitter]
-[Youtube][youtube]
+##
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSTitan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C210331%2C000439)](website)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSTitan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=UwU&ring_color=FA8B00&icon_color=FA8B00&text_color=ffffff&text_bold=false&bg_color=45%2C000439%2C210331)](website)
+##
 
-<a href="https://github.com/DSTitan/DSTitan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSTitan&line_height=27&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
-</a>
-
+I aim to create a vibrant community of like-minded individuals who share my passion for innovation and creativity.
 
 [website]: https://titanstudios.tk
 [titanbot]: https://titanbot.net
