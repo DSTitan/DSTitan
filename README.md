@@ -25,7 +25,7 @@
 
 ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=DSTitan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C210331%2C000439)](https://titanstudios.tk)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSTitan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=UwU&ring_color=FA8B00&icon_color=FA8B00&text_color=ffffff&text_bold=false&bg_color=45%2C000439%2C210331)](https://titanstudios.tk)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSTitan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=UwU&card_width=495px&ring_color=FA8B00&icon_color=FA8B00&text_color=ffffff&text_bold=false&bg_color=45%2C000439%2C210331)](https://titanstudios.tk)
 ##
 
 I aim to create a vibrant community of like-minded individuals who share my passion for innovation and creativity.
