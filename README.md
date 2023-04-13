@@ -1,9 +1,9 @@
-# Hi there, I'm Titan! 👋
+# Hewo there! 🦊
 
 [![Website](https://img.shields.io/website?label=titanstudios.tk&style=for-the-badge&url=https%3A%2F%2Ftitanstudios.tk)][website]
 [![TitanBot](https://img.shields.io/website?label=titanbot.net&style=for-the-badge&url=https%3A%2F%2Ftitanbot.net)][titanbot]
+[![Discord Server](https://img.shields.io/discord/708843719528284262.svg?color=5865f2&style=for-the-badge&logo=discord)][discord]
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathstormtitan?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-[![Discord Server](https://img.shields.io/discord/708843719528284262.svg?style=for-the-badge&logo=discord)][discord]
 
 ## About Me
 - 📜 My name is Nathan, also known as Titan.
