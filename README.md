@@ -12,7 +12,7 @@
 - 🎯 My ultimate goal is to become a highly skilled developer and artist by constantly challenging myself with new projects and ideas.
 - 📚 I believe in continuous learning and self-improvement, and am always seeking new opportunities to grow my skills.
 - 🚀 I enjoy learning and using new technologies to build innovative projects.
-- ❤️ I hope you like what I do!
+- ❤️ I hope you like what I do UwU!
 
 ## Currently Working On
 - ⚒️ I'm currently working on a [Discord Bot][titanbot]
