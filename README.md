@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathstormtitan?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## About Me
-- 📜 My name is Nathan, also known as Titan.
+- 📜 Hoi im Titan!
 - 💻 I'm a programmer and digital artist.
 - 🌟 I have experience working with various programming languages and frameworks.
 - 🎯 My ultimate goal is to become a highly skilled developer and artist by constantly challenging myself with new projects and ideas.
