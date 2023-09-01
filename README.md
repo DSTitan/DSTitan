@@ -63,7 +63,11 @@
 Thankies for checking out my account! Make sure to also check my other socials!
 
 [website]: https://www.titanstudios.tk
+
 [titanbot]: https://www.titanbot.net
+
 [discord]: https://discord.com/invite/j5pkCEff8P
+
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdeathstormtitan&screen_name=deathstormtitan
+
 [youtube]: https://www.youtube.com/@deathstormtitan
