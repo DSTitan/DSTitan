@@ -1,7 +1,7 @@
 # Hewo there! 🦊
 
 [![TitanBot](https://img.shields.io/website?label=titanbot.net&style=for-the-badge&url=https%3A%2F%2Ftitanbot.net)][titanbot]
-[![Website](https://img.shields.io/website?label=titanstudios.tk&style=for-the-badge&url=https%3A%2F%2Ftitanstudios.tk)][website]
+[![Website](https://img.shields.io/website?label=titanstudiosofficial.com&style=for-the-badge&url=https%3A%2F%2Ftitanstudiosofficial.com)][website]
 [![Discord Server](https://img.shields.io/discord/708843719528284262.svg?color=5865f2&style=for-the-badge&logo=discord)][discord]
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathstormtitan?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
@@ -56,13 +56,13 @@
 - 📺 [YouTube][youtube]
 
 ##
-[![GitHub Streak](https://streak-stats.demolab.com?user=DSTitan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C210331%2C000439)](https://titanstudios.tk)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSTitan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=UwU&card_width=495px&ring_color=FA8B00&icon_color=FA8B00&text_color=ffffff&text_bold=false&bg_color=45%2C000439%2C210331)](https://titanstudios.tk)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSTitan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C210331%2C000439)](https://titanstudiosofficial.com)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSTitan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=UwU&card_width=495px&ring_color=FA8B00&icon_color=FA8B00&text_color=ffffff&text_bold=false&bg_color=45%2C000439%2C210331)](https://titanstudiosofficial.com)
 ##
 
 Thankies for checking out my account! Make sure to also check my other socials!
 
-[website]: https://www.titanstudios.tk
+[website]: https://www.titanstudiosofficial.com
 
 [titanbot]: https://www.titanbot.net
 
